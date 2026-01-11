@@ -3,7 +3,7 @@
 👨‍💻 Aspiring Backend Developer<br/>
 💡 Studying **Mathematics and Data Analysis** at the University of Silesia in Katowice<br/>
 🎓 Graduated in **Mathematics and Computer Science** at the University of Silesia in Katowice<br/>
-
+🌱 Participant of **Women in Tech Camp 2025**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natalia-jona) 
